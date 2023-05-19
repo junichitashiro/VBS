@@ -19,9 +19,9 @@
 
 ## 文字コード
 
-* 日本語を扱う場合は __Shift JIS__ で保存する
+* 日本語を扱う場合は **Shift JIS** で保存する
 
 ## MsgBox
 
 * ここではメッセージを最前面に表示するように指定している
-* 単純に表示するだけなら __MsgBox SendStr & "ID copied to clipboard."__ でよい
+* 単純に表示するだけなら **MsgBox SendStr & "ID copied to clipboard."** でよい
